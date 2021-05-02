@@ -1,0 +1,500 @@
+id,first name,last name,nickname,height feet,height inches,positions,weight pounds,team id,team abbreviation,team city,team conference,team division,team full name,team name
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+1,Alex,Abrines,Alexi,6,6,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+14,Ike,Anigbogu,Ikeee,,,,,12,IND,Indiana,East,Central,Indiana Pacers,Pacers
+25,Ron,Baker,Roni,,,,,20,NYK,New York,East,Atlantic,New York Knicks,Knicks
+67,MarShon,Brooks,MarShonWin,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+119,Tyler,Davis,Tylero,,,,,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+90,Omri,Casspi,OmriIs,,,,,15,MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+47,Jabari,Bird,JabariWow,,,,,2,BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+71,Lorenzo,Brown,Lorenzos,,,,,28,TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
