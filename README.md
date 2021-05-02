@@ -9,14 +9,13 @@
 
 ## Tech
 
-This exam uses a number of libraries to work properly:
+This api uses a number of libraries to work properly:
 - express 
 - axios
 - csv-parser
 - csv-writer
 
 ## Installation
-NOTE! module folder might be missing due to folder size
 Install the dependencie and start the server.
 ```
 npm i
